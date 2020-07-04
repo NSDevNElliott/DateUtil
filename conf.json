@@ -3,7 +3,8 @@
     "recurseDepth": 10,
     "source": {
         "includePattern": ".+\\.js(doc|x)?$",
-        "excludePattern": "(^|\\/|\\\\)_"
+        "excludePattern": "(^|\\/|\\\\)_",
+        "include": ["README.md"]
     },
     "sourceType": "module",
     "tags": {
