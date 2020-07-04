@@ -1,0 +1,31 @@
+{
+    "plugins": ["prettier"],
+    "recurseDepth": 10,
+    "source": {
+        "includePattern": ".+\\.js(doc|x)?$",
+        "excludePattern": "(^|\\/|\\\\)_"
+    },
+    "sourceType": "module",
+    "tags": {
+        "allowUnknownTags": true,
+        "dictionaries": ["jsdoc","closure"]
+    },
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinks": true,
+        "navType": "vertical",
+        "theme": "spacelab",
+        "linenums": true,
+        "collapseSymbols": true,
+        "inverseNav": false,
+        "logo": "https://catalyst-it.co.uk/wp-content/themes/catalyst/images/opt/logo.svg",
+        "default": {
+            "outputSourceFiles": true
+    },
+        "cleverLinks": false,
+        "monospaceLinks": false
+    },
+    "opts": {
+        "template": "../tui-jsdoc-template/"
+    }
+}
