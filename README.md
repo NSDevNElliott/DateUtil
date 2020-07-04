@@ -1,4 +1,3 @@
-/** 
  * This JavaScript file contains various date functions
  * 
  * @projectname Date Util
@@ -6,5 +5,5 @@
  * @author Neil Elliott
  * @copyright 2020
  * 
- */
+
  
