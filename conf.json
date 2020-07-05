@@ -27,6 +27,6 @@
         "monospaceLinks": false
     },
     "opts": {
-        "template": "../tui-jsdoc-template/"
+        "template": "U:/Webstorm Projects/Date Module/node_modules/cat-jsdoc-template"
     }
 }

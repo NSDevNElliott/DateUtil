@@ -12,11 +12,11 @@ ul, ol, li {list-style:none; padding-left:0; margin-left:0;}
     top: 0;
     overflow: auto;
     left: 0;
-    background-color: #161b1d;
+    background-color: #ffffff;
     padding: 0 20px;
 }
 .lnb .logo {
-    height: 13px;
+    height: 75px;
     margin: 20px auto 0;
 }
 .lnb .title {
@@ -24,12 +24,12 @@ ul, ol, li {list-style:none; padding-left:0; margin-left:0;}
     padding: 0 0 15px;
 }
 .lnb .title .link {
-    color: #fff;
+    color: #f49f33;
     font-style: italic;
 }
 .lnb h3 {
     font-size: 1.5em;
-    color: #fa3282;
+    color: #985f0d;
 }
 .lnb h3 a {
     color: #fa3282;
@@ -44,7 +44,7 @@ ul, ol, li {list-style:none; padding-left:0; margin-left:0;}
     border-bottom: 1px solid #1f292e;
 }
 .lnb .lnb-api h3 a {
-    color: #fa3282;
+    color: #985f0d;
 }
 .lnb .lnb-api h3 a:hover {
     color: #fa3282;
@@ -52,7 +52,7 @@ ul, ol, li {list-style:none; padding-left:0; margin-left:0;}
 }
 .lnb .lnb-api a,
 .lnb .lnb-examples a {
-    color: #7cafc2;
+    color: #e47432;
 }
 .lnb .lnb-api a:hover,
 .lnb .lnb-examples a:hover {
@@ -71,7 +71,7 @@ ul, ol, li {list-style:none; padding-left:0; margin-left:0;}
 .lnb .member-type {
     margin-top: 5px;
     margin-left: 5px;
-    color: #568c3b;
+    color: #985f0d;
     font-weight: normal;
     font-size: 10px;
     cursor: text;
@@ -142,7 +142,7 @@ ul, ol, li {list-style:none; padding-left:0; margin-left:0;}
     font-size:18px;
     font-weight:bold;
     padding-left : 5px;
-    border-left: 5px solid #dc9656;
+    border-left: 5px solid #f49f33;
 }
 .main section article {
     padding: 10px;
@@ -273,11 +273,11 @@ ul, ol, li {list-style:none; padding-left:0; margin-left:0;}
 footer {
     padding-top: 3px;
     line-height: 35px;
-    height: 35px;
+    height: 50px;
     position: fixed;
     width: 100%;
     bottom: 0;
-    background-color: #00beaa;
+    background-color: #ffffff;
     color: #ebf8ff;
     text-align: center;
 }
@@ -372,23 +372,23 @@ footer {
     padding: 7px;
     width: 100%;
     color: #aaa;
-    border: 1px solid #585858;
-    background-color: #373737;
+    border: 1px solid #f49f33;
+    background-color: #f49f33;
     border-radius: 2px;
 }
 .search-container a {
     color: #fff;
 }
 .search-container strong {
-    color: pink;
+    color: #ffffff;
     font-weight: normal;
 }
 .search-container ul {
     font-size: 13px;
     position: absolute;
     width: 100%;
-    background-color: #456e82;
-    border: 1px solid #1f292e;
+    background-color: #f49f33;
+    border: 1px solid #f49f33;
     border-radius: 0 0 2px 2px;
     opacity: 0.9;
     filter: alpha(opacity=90);
@@ -426,7 +426,7 @@ footer {
 
 /* ETC */
 .logo {
-    width: 90px;
+    width: 200px;
     vertical-align: initial;
 }
 .hidden {
@@ -435,6 +435,7 @@ footer {
 .footer-text {
     padding-left: 3px;
     display: inline-block;
+    color: #985f0d;
 }
 #example-nav {
     margin-top: 15px;
@@ -444,7 +445,7 @@ footer {
     position: fixed;
     left: 290px;
     height: 100%;
-    background-color: #00beaa;
+    background-color: #f49f33;
     cursor: col-resize;
 }
 span.param-type {
